@@ -1,5 +1,5 @@
-## NLP 
+# NLP 
 
-# Tokenization
-# Stemming and lemmetization
-# stopworsd
+## Tokenization
+## Stemming and Lemmatization
+## stopworsd
