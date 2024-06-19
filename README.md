@@ -2,4 +2,4 @@
 
 ## Tokenization
 ## Stemming and Lemmatization
-## stopworsd
+## Stopwords
